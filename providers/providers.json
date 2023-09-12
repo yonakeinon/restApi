@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Provider 1",
+      "specialty": "Cardiologist",
+      "available": ["2023-09-15T09:00:00.000Z", "2023-09-16T10:30:00.000Z", "2023-09-18T14:00:00.000Z"],
+      "score": 9.5
+    },
+    {
+      "name": "Provider 2",
+      "specialty": "Neurologist",
+      "available": ["2023-09-16T09:00:00.000Z", "2023-09-17T14:30:00.000Z"],
+      "score": 8.8
+    },
+    {
+      "name": "Provider 3",
+      "specialty": "Cardiologist",
+      "available": ["2023-09-15T09:00:00.000Z", "2023-09-16T11:00:00.000Z"],
+      "score": 9.2
+    },
+    {
+      "name": "Provider 4",
+      "specialty": "Orthopedic Surgeon",
+      "available": ["2023-09-17T09:30:00.000Z", "2023-09-19T14:00:00.000Z"],
+      "score": 8.5
+    }
+  ]
+  
